@@ -1,7 +1,7 @@
 # Bharatnaty-Bharatnaty
 <h1 align="center">Hi 👋, I'm BHARAT NATRAYN</h1>
 <h3 align="center">AI/ML ADMIRER LEARN DEVELOP MAKE IT WORTH BETTER EVERYDAY</h3>
-
+->ABOUT ME
 - 🌱 I’m currently learning **SELENIUM**
 
 - 💬 Ask me about **PYTHON**
