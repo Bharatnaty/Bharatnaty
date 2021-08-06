@@ -5,9 +5,12 @@
 
 <h5>ABOUT ME<br></h5>
 ✔ Callme: He/His or TeamWorker 😊 <br>
+
 ✔ I’m currently learning about deep learning🥰<br>
+
 ✔ Ask from me anything you want 😉<br>
-✔ Fun fact CHESS ,BOOKS FRIENDS FOR ME
+
+✔ Fact CHESS ,BOOKS FRIENDS FOR ME
           
 <h3 align="center">Connect with me:</h3>
 <p align="center">
