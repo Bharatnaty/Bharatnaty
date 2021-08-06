@@ -2,7 +2,7 @@
 # Bharatnaty
 <h1 align="center">Hi 👋, I'm BHARAT NATRAYN</h1>
 <h3 align="center">AI/ML ADMIRER LEARN DEVELOP MAKE IT WORTH BETTER EVERYDAY</h3>
-<p align="center>
+
 ABOUT ME<br>
 ✔ Callme: He/His or TeamWorker 😊 <br>
 ✔ I’m currently learning about deep learning🥰<br>
