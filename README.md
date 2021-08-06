@@ -3,11 +3,10 @@
 <h1 align="center">Hi 👋, I'm BHARAT NATRAYN</h1>
 <h3 align="center">AI/ML ADMIRER LEARN DEVELOP MAKE IT WORTH BETTER EVERYDAY</h3>
 ->ABOUT ME<br>
-- 🌱 I’m currently learning **SELENIUM**
-
-- 💬 Ask me about **PYTHON**
-
-- ⚡ Fun fact **CHESS ,BOOKS FRIENDS OF ME**
+✔ Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
+✔ I’m currently learning about **deep learning**🥰<br>
+✔ Ask from me anything you want 😉<br>
+✔ ⚡ Fun fact **CHESS ,BOOKS FRIENDS FOR ME**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
