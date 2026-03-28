@@ -8,7 +8,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bharat%20Natrayn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/bharat-natrayn)
 [![Email](https://img.shields.io/badge/Email-bharatnatrayn00%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bharatnatrayn00@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%209080009619-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919080009619)
 [![Location](https://img.shields.io/badge/Chennai%2C%20India-📍-FF6B6B?style=for-the-badge)](https://maps.google.com/?q=Chennai,India)
 
 </div>
